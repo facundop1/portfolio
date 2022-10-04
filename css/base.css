@@ -1,0 +1,71 @@
+:root {
+    --background-negro: #000000;
+    --background-verde: #1A4D2E;
+    --background-claro: #FAF3E3;
+    --background-cards-blanco: #FFFFFF;
+
+    --font-fondos-claros: #1A4D2E;
+    --font-fondos-oscuros: #FAF3E3;
+
+    --boton-borde-letra-verde: #1A4D2E;
+    --boton-borde-negro: #000000;
+
+    --border-header: #202020;
+
+    --border-error-input: #DF2525;
+
+    --background-footer: #000000;
+
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    padding-right: 4%;
+    padding-left: 4%;
+}
+
+
+.header,
+.introduccion {
+    background: var(--background-negro);
+}
+
+.sobre_mi,
+.formacion,
+.contacto {
+    background: var(--background-verde);
+}
+
+.skills,
+.hobbies,
+.proyectos {
+    background: var(--background-claro);
+}
+
+.footer {
+    background: var(--background-footer);
+}
+
+body::-webkit-scrollbar {
+    width: 6px;
+}
+ 
+body::-webkit-scrollbar-track {
+    background-color: var(--background-negro);
+
+}
+ 
+body::-webkit-scrollbar-thumb {
+    box-shadow: inset 0 0 6px rgba(25, 77, 46, 1);
+    border-radius: 100px;
+}
+
+/*@media screen and (min-width: 1024px) {
+    .container {
+        padding-left: calc((100% - 940px)/2);
+        padding-right: calc((100% - 940px)/2);
+    }
+}

@@ -1,0 +1,27 @@
+.sobre_mi {
+    padding-top: 3%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.sobre_mi__titulo {
+    text-align: left;
+    font-size: 1.3rem;;
+    font-weight: 700;
+    color: var(--font-fondos-oscuros);
+    margin-bottom: 15px;
+}
+
+.sobre-mi__texto {
+    color: var(--font-fondos-oscuros);
+    word-wrap: break-word;
+    width: 92vw;
+    margin-bottom: 15px;
+}
+
+.sobre-mi__imagen-firma {
+    width: 136px;
+    height: 63px;
+}
