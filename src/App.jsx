@@ -54,7 +54,7 @@ function App() {
               alt="mail"
               className="inline sm:pr-1"
             />
-            Facupv123@gmail.com
+            facupv123@gmail.com
           </a>
         </div>
       </header>
