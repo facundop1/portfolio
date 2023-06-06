@@ -12,7 +12,7 @@ export const ContentMain = () => {
 
   return (
     <div className="md:flex md:flex-wrap md:justify-between">
-      <div className="md:flex md:flex-col md:w-[14rem] lg:w-[16rem] xl:w-[19rem] 2xl:w-[22rem]">
+      <div className="md:flex md:flex-col md:w-[14rem] lg:w-[16rem] xl:w-[19rem] 2xl:w-[26rem]">
         <div className="bg-cards flex flex-col sm:gap-4 sm:p-4 sm:rounded md:max-w-xs lg:max-w-sm xl:max-w-md">
           <h1 className="font-semibold text-lg">Skills</h1>
 
