@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6fe4016f.css",
+    "main.js": "/portfolio/static/js/main.e1296289.js",
+    "static/media/musica.jpg": "/portfolio/static/media/musica.a9c1f0f35ec63be3bba5.jpg",
+    "static/media/idiomas.jpg": "/portfolio/static/media/idiomas.b66a09812736f2abfadb.jpg",
+    "static/media/Conversor.jpg": "/portfolio/static/media/Conversor.229d357121f32bf89ecc.jpg",
+    "static/media/ONE.png": "/portfolio/static/media/ONE.9322363750f77e5d49d5.png",
+    "static/media/Hotel.jpg": "/portfolio/static/media/Hotel.1b8cccd877393e909bb2.jpg",
+    "static/media/gaming.jpg": "/portfolio/static/media/gaming.b2f3a06cc881aded18d4.jpg",
+    "static/media/Encriptador.png": "/portfolio/static/media/Encriptador.19a8188562a215065384.png",
+    "static/media/Ahorcado.jpg": "/portfolio/static/media/Ahorcado.acdd488e3ee432b4f2a7.jpg",
+    "static/media/foto-perfil.jpg": "/portfolio/static/media/foto-perfil.7d789da2683a093a4d17.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.6fe4016f.css.map": "/portfolio/static/css/main.6fe4016f.css.map",
+    "main.e1296289.js.map": "/portfolio/static/js/main.e1296289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe4016f.css",
+    "static/js/main.e1296289.js"
+  ]
+}
