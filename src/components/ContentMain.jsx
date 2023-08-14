@@ -2,16 +2,16 @@ import React from "react";
 import ProgressBar from "./ProgressBar";
 
 export const ContentMain = () => {
-  const progressHTML = 90;
-  const progressCSS = 80;
-  const progressJavaScript = 70;
-  const progressJava = 30;
-  const progressMySQL = 30;
-  const progressReact = 25;
-  const progressTailwind = 25;
+  const progressHTML = 60;
+  const progressCSS = 60;
+  const progressJavaScript = 30;
+  const progressJava = 20;
+  const progressMySQL = 20;
+  const progressReact = 15;
+  const progressTailwind = 30;
 
   return (
-    <div className="md:flex md:flex-wrap md:justify-between">
+    <div className="md:flex md:flex-wrap md:justify-between mb-12">
       <div className="md:flex md:flex-col md:w-[14rem] lg:w-[16rem] xl:w-[19rem] 2xl:w-[26rem]">
         <div className="bg-cards flex flex-col sm:gap-4 sm:p-4 sm:rounded md:max-w-xs lg:max-w-sm xl:max-w-md">
           <h1 className="font-semibold text-lg">Skills</h1>
@@ -82,7 +82,7 @@ export const ContentMain = () => {
           <div className="flex sm:flex-col gap-1 xl:flex-row">
             <div className="bg-formacion-argprograma bg-contain bg-no-repeat sm:w-full sm:h-44 2xl:w-96" />
             <div className="flex flex-col gap-1">
-              <p className="font-medium text-stone-500">Feb. 2023 - Actual</p>
+              <p className="font-medium text-stone-500">Feb. 2023 - Abr. 2023</p>
               <span className="font-semibold">Argentina Programa 4.0</span>
               <p className="font-medium">
                 Curso de introduccion a la programacion con Gobstones,

@@ -4,8 +4,8 @@ import { Proyects } from "./components/Proyects";
 
 function App() {
   return (
-    <div className="relative z-0 ">
-      <header className="bg-cards flex sm:p-4 sm:flex-col sm:gap-1 sm:rounded lg:flex-row xl:justify-between">
+    <div className="relative z-0">
+      <header className="bg-cards flex sm:p-4 sm:flex-col sm:gap-1 sm:rounded lg:flex-row xl:justify-between mb-12">
         <div className="bg-header-pfp sm:w-28 sm:h-28 rounded-full sm:mx-auto bg-cover md:w-40 md:h-40 xl:mx-10" />
         <div className="flex sm:flex-col sm:gap-2 lg:max-w-sm xl:max-w-xl 2xl:max-w-4xl">
           <h1 className="font-semibold text-lg">Facundo Paez</h1>
@@ -59,17 +59,11 @@ function App() {
         </div>
       </header>
 
-      <br />
-
       <main>
         <ContentMain />
 
-        <br />
-
         <Proyects />
       </main>
-
-      <br />
 
       <footer className="py-4">
         <h1 className="text-center text-base font-bold">

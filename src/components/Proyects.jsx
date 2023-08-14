@@ -2,10 +2,10 @@ import React from "react";
 
 export const Proyects = () => {
   return (
-    <div>
+    <div className="mb-12">
       <div className="bg-cards flex flex-col gap-4 sm:p-4 sm:rounded">
         <h1 className="font-semibold text-lg">Proyectos</h1>
-        <div className="flex flex-wrap gap-2">
+        {/* <div className="flex flex-wrap gap-2">
           <button className="rounded-full sm:py-1 sm:px-3 border font-medium border-black hover:bg-primary hover:text-white hover:border-none hover:transition hover:duration-300">
             Todos
           </button>
@@ -27,7 +27,7 @@ export const Proyects = () => {
           <button className="rounded-full sm:py-1 sm:px-4 border font-medium border-black hover:bg-primary hover:text-white hover:border-none hover:transition hover:duration-300">
             Java
           </button>
-        </div>
+        </div> */}
       </div>
 
       <br />
