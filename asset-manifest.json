@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6fe4016f.css",
-    "main.js": "/portfolio/static/js/main.e1296289.js",
+    "main.css": "/portfolio/static/css/main.9089534a.css",
+    "main.js": "/portfolio/static/js/main.1e0f93c0.js",
     "static/media/musica.jpg": "/portfolio/static/media/musica.a9c1f0f35ec63be3bba5.jpg",
     "static/media/idiomas.jpg": "/portfolio/static/media/idiomas.b66a09812736f2abfadb.jpg",
     "static/media/Conversor.jpg": "/portfolio/static/media/Conversor.229d357121f32bf89ecc.jpg",
@@ -12,11 +12,11 @@
     "static/media/Ahorcado.jpg": "/portfolio/static/media/Ahorcado.acdd488e3ee432b4f2a7.jpg",
     "static/media/foto-perfil.jpg": "/portfolio/static/media/foto-perfil.7d789da2683a093a4d17.jpg",
     "index.html": "/portfolio/index.html",
-    "main.6fe4016f.css.map": "/portfolio/static/css/main.6fe4016f.css.map",
-    "main.e1296289.js.map": "/portfolio/static/js/main.e1296289.js.map"
+    "main.9089534a.css.map": "/portfolio/static/css/main.9089534a.css.map",
+    "main.1e0f93c0.js.map": "/portfolio/static/js/main.1e0f93c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fe4016f.css",
-    "static/js/main.e1296289.js"
+    "static/css/main.9089534a.css",
+    "static/js/main.1e0f93c0.js"
   ]
 }
